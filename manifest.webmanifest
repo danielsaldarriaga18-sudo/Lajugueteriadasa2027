@@ -1,0 +1,10 @@
+{
+  "name": "La Juguetería de Dasa - Dasa Store Pro",
+  "short_name": "Dasa Store",
+  "description": "Inventario, ventas y finanzas de La Juguetería de Dasa",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0917",
+  "theme_color": "#10091f",
+  "icons": []
+}
